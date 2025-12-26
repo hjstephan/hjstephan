@@ -1,175 +1,145 @@
-# Hi there, I'm Stephan Epp 👋
+# Stephan Epp - Senior Software Entwickler
 
-## 🚀 About Me
+## 👋 Über mich
 
-I'm a Senior Software Developer from Bielefeld, Germany, with a Master's degree in Computer Science (Grade 1.6 - *sehr gut*) from the University of Paderborn. I'm passionate about building robust, scalable software solutions across various domains including automotive, traffic technology, financial administration, and enterprise applications.
+Senior Software Entwickler mit M.Sc. Informatik und umfassender Expertise in der Entwicklung komplexer Softwarelösungen für verschiedene Branchen:
+- **Automotive** (AUTOSAR, ISO 26262, CyberSecurity)
+- **Verkehrstechnik** (IoT, Reporting, REST-APIs)
+- **Finanzverwaltung** (Enterprise-Systeme)
 
-💼 Currently working on exciting projects in software development and architecture  
-🌱 Always learning and exploring new technologies  
-👨‍👩‍👧‍👦 Proud father of five  
-🎓 **ISO 26262 Functional Safety Certified**  
-🚗 **AUTOSAR Certified** (Workshop & Practice)
+Mit über 10 Jahren Berufserfahrung verbinde ich fundiertes theoretisches Wissen mit praktischer Umsetzungskompetenz.
 
-## 🛠️ Tech Stack & Expertise
+## 🎯 Schwerpunkte
 
-### Primary Focus Areas
-```
-Jakarta EE | Python (FastAPI) | .NET/Entity Framework
-PostgreSQL | Oracle SQL | Embedded Development (C/MISRA)
-Hardware-near Programming (VHDL/Verilog)
-```
+- Backend Development & Software Architektur
+- Quality Assurance & Test-Driven Development
+- Embedded Systems & Automotive Software
+- Anforderungsanalyse & Technische Dokumentation
 
-### Languages
-```
-Java | C# | Python | JavaScript | C (MISRA) | VHDL | Verilog | HMTL | CSS | PHP
-```
+## 🛠️ Technologie-Stack
 
 ### Backend & Frameworks
-- **Enterprise**: Jakarta EE, Spring Boot, Wildfly
-- **Python**: FastAPI (preferred)
-- **C#**: Entity Framework, .NET
-- **REST APIs**: Design, Implementation, Extension
-- Microservices Architecture
+- **Java**: Jakarta EE, Spring Boot, Wildfly, Maven
+- **Python**: FastAPI, Unit Testing
+- **C#**: .NET, Entity Framework
+- **C/C++**: Embedded Systems, MISRA C
 
-### Frontend & Mobile
-- HTML5, CSS3, JavaScript, Node.js, npm
-- Capacitor for Android development
+### Datenbanken
+PostgreSQL | Oracle SQL | MySQL | Microsoft SQL | MariaDB
 
-### Databases
-- **PostgreSQL** (preferred)
-- **Oracle SQL** (preferred)
-- Microsoft SQL Server, MySQL, MariaDB
+### Development Tools
+Git | Jenkins | Maven | Visual Studio Code | Eclipse | SonarQube | LDRA
 
-### Embedded & Hardware-Near Development
-- **C** (MISRA compliant)
-- **VHDL/Verilog** for hardware description
-- AUTOSAR architecture and implementation
-- CyberSecurity in automotive contexts
-
-### Tools & DevOps
-- **Version Control**: Git, SVN
-- **Build Tools**: Maven, Jenkins
-- **IDEs**: Visual Studio Code, Eclipse, Visual Studio Community
-- **Testing**: LDRA tool suite, VMware test environments
-- CI/CD pipelines, Docker
-
-### Quality & Testing
-- **Methodologies**: Clean Code, TDD, Black/White-Box Testing
-- **Testing Frameworks**: JUnit (Java), NUnit (C#)
-- **Tools**: SonarQube, Jacoco (Code Coverage), LDRA
-- Integration Testing, Unit Testing
-- Automotive Safety Standards (ISO 26262)
+### Quality Assurance
+- Clean Code, TDD, Unit Tests (JUnit, NUnit)
+- Integrationstests, Code Coverage (Jacoco)
+- Black/White-Box Testing
 
 ### Requirements & Modeling
-- Atlassian Jira, IBM Rational DOORS, Visure Requirements
-- UML, UML-Profiles, MDD
-- IBM Rational Rhapsody, Visual Paradigm, Enterprise Architect
+Atlassian Jira | IBM Rational DOORS | Visure Requirements | UML | IBM Rational Rhapsody
 
-### Automotive Standards & Certifications
-- ✅ **AUTOSAR** (Vector Academy - Workshop & Practice certified)
-- ✅ **ISO 26262** Functional Safety (Quint Academy & Kugler Maag Cie certified)
-- CyberSecurity requirements implementation
-- MISRA C compliant development
+### Automotive Standards
+AUTOSAR | ISO 26262 (Functional Safety) | CyberSecurity | MISRA C
 
-## 💼 Professional Experience Highlights
+## 🏆 Besondere Erfolge
 
-### Senior Software Developer - Traffic Technology
-**Peter Berghaus GmbH** (Nov 2023 - Mar 2024)
-- REST API development and extensions
-- Reporting systems for battery consumption and vehicle speed analysis
-- Test environment setup, unit testing, integration testing
-- Audit log implementation
-- *Rating: "zu unserer vollen Zufriedenheit"*
+### Algorithmenentwicklung (Universität Paderborn, 2013)
+**"Learning M-DNF in Boolean Circuits"**
+- Wissenschaftliche Arbeit mit Korrektheitsbeweis und Laufzeitanalyse
+- Java-Implementierung mit experimenteller Validierung
+- Note: 1,6 (Sehr gut)
 
-### Quality Assurance - Automation
-**SALZ Automation GmbH** (Jul 2023 - Sep 2023)
-- Software test automation with LDRA tool suite
-- Documentation with Visure Requirements Management
-- Professional customer contact and Git version control
-- *Rating: "zu unserer vollen Zufriedenheit"*
+### Signal Editor Innovation (dSPACE GmbH, 2015)
+**AutomationDesk & ControlDesk NG**
+- Entwicklung einer Common Component für signalbasiertes Testen
+- Produktpräsentation verfügbar auf YouTube
+- Wegweisend für moderne Testautomatisierung
 
-### Technical Product Support - Financial Administration
-**Rechenzentrum der Finanzverwaltung NRW** (Dec 2022 - May 2023)
-- Coordination of KONSENS product deployment
-- Software error analysis and developer coordination
-- Product and process documentation
-- COBOL system maintenance
-- *Rating: "zu unserer Zufriedenheit"*
+### Modellgetriebene Entwicklung (Hella GmbH, 2019)
+**Dezentrale NV-Datengenerierung**
+- Java-Plugin für Rational Rhapsody nach V-Modell
+- UML-Profil basierte Code-Generierung
+- Architektur- und Modul-Ebene Generierung
 
-### Software Developer & Architect - Automotive
-**Hella GmbH & Co. KGaA** (Apr 2017 - Apr 2019)
-- SW architecture in customer projects
-- Tool and process development for NonVolatile data (modeling & generation)
-- CyberSecurity architecture implementation
-- International collaboration with HELLA locations worldwide
-- *Rating: "in bester Weise entsprochen"*
+### Komplexitätsgetriebenes Testing (Peter Berghaus GmbH, 2024)
+**Innovativer QA-Ansatz**
+- Integrationstests nach Zyklomatischer Komplexität
+- Automatische Priorisierung kritischer Methoden
+- Kontinuierliche Code-Quality-Verbesserung durch Git-Integration
 
-### Software Developer - Address Research
-**Deutsche Post Adress GmbH & Co. KG** (May 2016 - Mar 2017)
-- Full software development lifecycle
-- Requirements analysis, implementation, testing
-- Unit tests, integration tests, deployment, 2nd level support
-- **Tech**: Java EE 7, JPA, CDI
+## 💼 Berufserfahrung (Auszug)
 
-### Software Developer - Automotive/Aerospace
-**dSPACE GmbH** (Apr 2013 - Nov 2015)
-- Development and extension of AutomationDesk test automation product
-- ECU diagnostics, measurement and calibration
-- Responsibility for Common Components
-- **Tech**: C#, C/C++, Python
-- *Rating: "jederzeit voll zufrieden"*
+**Senior Software Entwickler** | Peter Berghaus GmbH | 11/2023 – 03/2024
+- Verkehrstechnik: Reportings/Auswertungen (Batterieverbrauch, Kfz-Geschwindigkeiten)
+- REST-API Erweiterungen, Testumgebungen
+- Unittest, Integrationstests, Audit Logs
 
-## 🎓 Education
+**Software Architekt** | Hella GmbH & Co. KGaA | 04/2017 – 04/2019
+- SW-Architektur im Kundenprojekt, AUTOSAR
+- Tool- und Prozessentwicklung für NonVolatile Daten
+- Software-Architektur für CyberSecurity-Anforderungen
+- Zusammenarbeit mit internationalen HELLA Standorten
 
-- **M.Sc. Computer Science** (Grade: 1.6 - *sehr gut*) - University of Paderborn (2011-2013)
-  - Specialization: Software Engineering
-  - Minor: Electrical Engineering
-  - Thesis: "Learning M-DNF in Boolean Circuits"
-  
-- **B.Sc. Computer Science** (Grade: 2.6) - University of Paderborn (2005-2011)
-  - Minor: Electrical Engineering
-  - Thesis: "Aufgabenverteilung in Multiagentensystemen"
+**Software Entwickler** | dSPACE GmbH | 04/2013 – 11/2015
+- Neuentwicklung und Erweiterung des AutomationDesk Testautomatisierungsprodukts
+- Steuergeräte-Diagnose, Messen und Kalibrieren
+- Implementierung in C#, C/C++, Python
 
-- **State-certified IT Assistant** (Grade: 2.0) - Carl-Severing-Berufskolleg (2005)
+**Software Entwickler** | Deutsche Post Adress GmbH & Co. KG | 05/2016 – 03/2017
+- Vollständiger Software-Entwicklungszyklus: Analyse, Implementierung, Testing
+- Java EE 7, JPA/CDI, Unit Tests, Integrationstests
 
-## 📜 Certifications
+## 🎓 Ausbildung
 
-- 🚗 **AUTOSAR Workshop & Practice** - Vector Academy @ Hella (Feb & May 2017)
-- 🛡️ **Functional Safety ISO 26262** - Quint Academy & Kugler Maag Cie (Oct & Dec 2017)
-- ☕ **Java EE 7 Intensive Course** - GEDOPLAN IT Training (Oct 2016)
-  - JPA 2.1, CDI 1.1, Maven 3
-- 🐧 **UNIX/Linux Introduction** - RZF NRW (2023)
+**Master of Science Informatik** (Note: 1,6 - Sehr gut)  
+Universität Paderborn, 2011-2013
+- Schwerpunkt: Softwaretechnik
+- Nebenfach: Elektrotechnik
+- Masterarbeit: "Learning M-DNF in Boolean Circuits"
 
-## 🌟 Strengths & Work Style
+**Bachelor of Science Informatik**  
+Universität Paderborn, 2005-2011
+- Nebenfach: Elektrotechnik
+- Bachelorarbeit: "Aufgabenverteilung in Multiagentensystemen"
 
-**Strengths**: Analytical thinking | High learning capacity | Initiative | Reliability | Resilience | Team player | Curious learner
+**Staatlich geprüfter Informationstechnischer Assistent** (Note: 2,0)  
+Carl-Severing Berufskolleg, Bielefeld, 2005
 
-**Work Style**: Independent | Meticulous | Goal-oriented | Structured | Quality-conscious
+## 📜 Zertifizierungen
 
-## 📫 How to Reach Me
+- **AUTOSAR Workshop & Praxis** (Vector Academy, Hella, 2017)
+- **Functional Safety - ISO 26262** (Quint Academy & Kugler Maag Cie, 2017)
+- **Java EE 7 Intensivkurs** (GEDOPLAN IT Training, 2016)
+- **UNIX/Linux Einführung** (RZF NRW, 2023)
 
-- 📧 **Email**: Stephan_Epp@web.de
-- 📧 **Email**: hjstephan86@gmail.com
-- 📱 **Phone**: +49 163 8140605
-- 📍 **Location**: Bielefeld, Germany
+## 🌟 Stärken & Arbeitsweise
 
-## 🌐 Languages
+**Stärken**
+- Analytisches Denken
+- Hohe Auffassungsgabe
+- Eigeninitiative & Zuverlässigkeit
+- Teamfähigkeit & Wissbegier
 
-- 🇬🇧 **English**: Fluent (negotiation level)
-- 🇫🇷 **French**: Basic knowledge
-- 🇩🇪 **German**: Native
+**Arbeitsweise**
+- Selbstständig & Sorgfältig
+- Zielorientiert & Strukturiert
+- Qualitätsbewusst
 
-## 💡 Interests
+**Sprachen**
+- Deutsch (Muttersprache)
+- Englisch (verhandlungssicher)
+- Französisch (Grundkenntnisse)
 
-- Writing scientific articles 📝
-- Software development & architecture 💻
-- Blogging ✍️
-- Football ⚽
-- Fitness & Swimming 🏊
-- Photography 📸
-- Reading 📚
-- Nature walks 🌲
+## 📫 Kontakt
+
+- **E-Mail**: Stephan_Epp@web.de
+- **E-Mail (alternativ)**: hjstephan86@gmail.com
+- **Standort**: Bielefeld, Deutschland
+
+## 💡 Interessen
+
+Wissenschaftliche Artikel verfassen • Software entwickeln • Bloggen • Fußball • Fitness • Schwimmen • Fotografie • Lesen • Spaziergänge
 
 ---
 
-⭐️ From [Stephan Epp](https://github.com/hjstephan)
+**Offen für spannende Projekte und technische Herausforderungen!**
